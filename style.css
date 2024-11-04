@@ -24,10 +24,10 @@ textarea{
 }
 p{
     text-align: center;
-    background-color: magenta;
-    font-weight: bold;
-    color: black;
+    background-color: seagreen;
+    font-weight: 400;
+    color: white;
     padding: 10px;
     margin: 0px;
-    font-size: 25px;
+    font-size: 2.5rem;
 }
